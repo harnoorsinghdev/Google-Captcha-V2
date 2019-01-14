@@ -1,5 +1,8 @@
-<!-- This script has been made by help from various sources.Thanks to all those open source developers -->
-
+<!--
+This script has been made by help from various sources.Thanks to all those open source developers
+HARNOOR SINGH GITHUB ACCOUNT-harnoorsinghdev
+HARNOOR SINGH INSTAGRAM ACCOUNT- @THEHARNOORSINGH13
+ -->
 <!doctype html>
 <html>
 <head>
